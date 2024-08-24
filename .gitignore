@@ -1,0 +1,24 @@
+# dependencies
+/node_modules
+
+# production build files
+/build
+
+# logs
+/logs
+
+# yarn lockfile
+yarn.lock
+
+# dotenv environment variables file
+.env
+
+# MacOS specific files
+.DS_Store
+
+# IDE files
+.vscode
+.idea
+
+# npm debugging logs
+npm-debug.log
